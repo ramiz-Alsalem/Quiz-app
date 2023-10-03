@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What is Python?",
+    "answer_1": "A snake species",
+    "answer_2": "A programming language",
+    "answer_3": "A type of pasta",
+    "answer_4": "A video game",
+    "right_answer": "A programming language"
+  },
+  {
+    "title": "Who is the creator of Python?",
+    "answer_1": "Steve Jobs",
+    "answer_2": "Guido van Rossum",
+    "answer_3": "Mark Zuckerberg",
+    "answer_4": "Elon Musk",
+    "right_answer": "Guido van Rossum"
+  },
+  {
+    "title": "What is the primary use of Python?",
+    "answer_1": "Data analysis and visualization",
+    "answer_2": "Building rockets",
+    "answer_3": "Cooking recipes",
+    "answer_4": "Writing novels",
+    "right_answer": "Data analysis and visualization"
+  },
+  {
+    "title": "How do you print 'Hello, World!' in Python?",
+    "answer_1": "console.log('Hello, World!');",
+    "answer_2": "print('Hello, World!');",
+    "answer_3": "System.out.println('Hello, World!');",
+    "answer_4": "echo 'Hello, World!';",
+    "right_answer": "print('Hello, World!');"
+  },
+  {
+    "title": "What is the syntax for defining a function in Python?",
+    "answer_1": "func my_function():",
+    "answer_2": "function my_function():",
+    "answer_3": "def my_function():",
+    "answer_4": "define my_function():",
+    "right_answer": "def my_function():"
+  },
+  {
+    "title": "Which symbol is used for single-line comments in Python?",
+    "answer_1": "//",
+    "answer_2": "/* */",
+    "answer_3": "#",
+    "answer_4": "--",
+    "right_answer": "#"
+  },
+  {
+    "title": "What is the Python keyword for creating a loop?",
+    "answer_1": "repeat",
+    "answer_2": "loop",
+    "answer_3": "for",
+    "answer_4": "do",
+    "right_answer": "for"
+  },
+  {
+    "title": "What is the purpose of the 'if' statement in Python?",
+    "answer_1": "To define a function",
+    "answer_2": "To create a class",
+    "answer_3": "To make decisions and control the flow of a program",
+    "answer_4": "To print text to the console",
+    "right_answer": "To make decisions and control the flow of a program"
+  },
+  {
+    "title": "Which data type is used to store a sequence of characters in Python?",
+    "answer_1": "int",
+    "answer_2": "float",
+    "answer_3": "str",
+    "answer_4": "list",
+    "right_answer": "str"
+  },
+  {
+    "title": "What does 'import' do in Python?",
+    "answer_1": "Exports data from a module",
+    "answer_2": "Imports functions and variables from a module",
+    "answer_3": "Deletes a file",
+    "answer_4": "Defines a class",
+    "right_answer": "Imports functions and variables from a module"
+  }
+]

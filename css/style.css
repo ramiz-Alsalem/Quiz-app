@@ -1,0 +1,146 @@
+:root {
+  --primary-color: #0075ff;
+  ---border-top-color-1: #dfdfdfdf;
+}
+
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: tahoma, arial;
+}
+
+.common {
+  background-color: #fff;
+  padding: 2rem;
+}
+
+.quiz-app {
+  margin: 2rem auto;
+  width: 80rem;
+  background-color: rgba(248, 248, 248, 0.9725490196);
+  padding: 1.5rem;
+}
+.quiz-app .quiz-info {
+  font-size: 2rem;
+  display: flex;
+}
+.quiz-app .quiz-info .category {
+  flex: 1;
+}
+.quiz-app .quiz-info .category .theCategory {
+  background-color: var(--primary-color);
+  color: white;
+  padding: 2px 0;
+  text-align: center;
+  width: 20rem;
+  border: none;
+  border-radius: 5px;
+  -webkit-border-radius: 5px;
+  -moz-border-radius: 5px;
+  -ms-border-radius: 5px;
+  -o-border-radius: 5px;
+  font-size: 1.8rem;
+  font-weight: bold;
+}
+.quiz-app .quiz-info .count {
+  flex: 1;
+  text-align: right;
+}
+.quiz-app .quiz-area {
+  margin-top: 15px;
+}
+.quiz-app .quiz-area h2 {
+  font-size: 2.8rem;
+}
+.quiz-app .submit-button {
+  background-color: var(--primary-color);
+  display: block;
+  width: 100%;
+  margin: 2rem auto;
+  padding: 1.5rem;
+  border: none;
+  color: #fff;
+  font-weight: bold;
+  font-size: 1.8rem;
+  cursor: pointer;
+  border-radius: 6px;
+  -webkit-border-radius: 6px;
+  -moz-border-radius: 6px;
+  -ms-border-radius: 6px;
+  -o-border-radius: 6px;
+}
+.quiz-app .submit-button:focus {
+  outline: none;
+}
+.quiz-app .results {
+  margin-top: 1rem;
+}
+.quiz-app .results span {
+  font-weight: bold;
+}
+.quiz-app .results span.bad {
+  color: #dc0a0a;
+}
+.quiz-app .results span.good {
+  color: #009688;
+}
+.quiz-app .results span.perfect {
+  color: var(--primary-color);
+}
+
+.answers-area {
+  padding-top: 0;
+}
+.answers-area .answer {
+  background-color: #f9f9f9;
+  padding: 15px;
+}
+.answers-area .answer:not(:last-child) {
+  border-bottom: 1px solid var(---border-top-color-1);
+}
+.answers-area .answer input[type=radio]:checked + label {
+  color: var(--primary-color);
+}
+.answers-area .answer label {
+  cursor: pointer;
+  font-weight: bold;
+  color: #777;
+  font-size: 1.4rem;
+  margin-left: 0.5rem;
+  position: relative;
+  top: -1px;
+}
+
+.bullets {
+  border-top: 1px solid var(---border-top-color-1);
+  display: flex;
+}
+.bullets .spans-container {
+  flex: 1;
+  display: flex;
+  gap: 5px;
+}
+.bullets .spans-container span {
+  width: 2rem;
+  height: 2rem;
+  background-color: #eee;
+  border-radius: 50%;
+  -webkit-border-radius: 50%;
+  -moz-border-radius: 50%;
+  -ms-border-radius: 50%;
+  -o-border-radius: 50%;
+}
+.bullets .spans-container span.on {
+  background-color: var(--primary-color);
+}
+
+/*# sourceMappingURL=style.css.map */

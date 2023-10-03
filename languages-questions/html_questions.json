@@ -1,0 +1,82 @@
+[
+	{
+		"title": "Why we use 'br' Element?",
+		"answer_1": "To make text bold",
+		"answer_2": "To make text italic",
+		"answer_3": "To add breakline",
+		"answer_4": "To add horizontal line",
+		"right_answer": "To add breakline"
+	},
+  {
+    "title": "What is the purpose of the `img` element in HTML?",
+    "answer_1": "To display images.",
+    "answer_2": "To create hyperlinks.",
+    "answer_3": "To format text.",
+    "answer_4": "To define paragraphs.",
+    "right_answer": "To display images."
+  },
+  {
+    "title": "What is the purpose of the `i` element?",
+    "answer_1": "To make text bold.",
+    "answer_2": "To make text italic.",
+    "answer_3": "To add a line break.",
+    "answer_4": "To add a horizontal line.",
+    "right_answer": "To make text italic."
+  },
+  {
+    "title": "What is the purpose of the `alt` attribute in an HTML `img` tag?",
+    "answer_1": "To specify the image source.",
+    "answer_2": "To set the image width and height.",
+    "answer_3": "To provide alternative text for the image.",
+    "answer_4": "To change the image background color.",
+    "right_answer": "To provide alternative text for the image."
+  },
+  {
+    "title": "What is the purpose of the `div` element in HTML?",
+    "answer_1": "To display images.",
+    "answer_2": "To create hyperlinks.",
+    "answer_3": "To format text.",
+    "answer_4": "To divide the content into sections.",
+    "right_answer": "To divide the content into sections."
+  },
+  {
+    "title": "What is the purpose of the `p` element in HTML?",
+    "answer_1": "To display images.",
+    "answer_2": "To create hyperlinks.",
+    "answer_3": "To format text.",
+    "answer_4": "To define paragraphs.",
+    "right_answer": "To define paragraphs."
+  },
+  {
+    "title": "What is the purpose of the `a` element in HTML?",
+    "answer_1": "To format text.",
+    "answer_2": "To create hyperlinks.",
+    "answer_3": "To define paragraphs.",
+    "answer_4": "To create tables.",
+    "right_answer": "To create hyperlinks."
+  },
+  {
+    "title": "What is the purpose of the `ul` element in HTML?",
+    "answer_1": "To create ordered lists.",
+    "answer_2": "To create unordered lists.",
+    "answer_3": "To define paragraphs.",
+    "answer_4": "To create tables.",
+    "right_answer": "To create unordered lists."
+  },
+  {
+    "title": "What is the purpose of the `ol` element in HTML?",
+    "answer_1": "To create ordered lists.",
+    "answer_2": "To create unordered lists.",
+    "answer_3": "To define paragraphs.",
+    "answer_4": "To create tables.",
+    "right_answer": "To create ordered lists."
+  },
+  {
+    "title": "What is the purpose of the `table` element in HTML?",
+    "answer_1": "To create tables.",
+    "answer_2": "To create ordered lists.",
+    "answer_3": "To define paragraphs.",
+    "answer_4": "To create forms.",
+    "right_answer": "To create tables."
+  }
+]

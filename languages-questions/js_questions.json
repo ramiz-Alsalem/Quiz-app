@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What is JavaScript?",
+    "answer_1": "A type of coffee",
+    "answer_2": "A programming language",
+    "answer_3": "A browser",
+    "answer_4": "A computer brand",
+    "right_answer": "A programming language"
+  },
+  {
+    "title": "Who is responsible for creating JavaScript?",
+    "answer_1": "Bill Gates",
+    "answer_2": "Mark Zuckerberg",
+    "answer_3": "Brendan Eich",
+    "answer_4": "Larry Page",
+    "right_answer": "Brendan Eich"
+  },
+  {
+    "title": "What is the primary use of JavaScript?",
+    "answer_1": "Making coffee",
+    "answer_2": "Styling web pages",
+    "answer_3": "Programming robots",
+    "answer_4": "Enhancing web interactivity",
+    "right_answer": "Enhancing web interactivity"
+  },
+  {
+    "title": "How do you display 'Hello, World!' in the browser using JavaScript?",
+    "answer_1": "echo('Hello, World!');",
+    "answer_2": "document.write('Hello, World!');",
+    "answer_3": "console.log('Hello, World!');",
+    "answer_4": "print('Hello, World!');",
+    "right_answer": "document.write('Hello, World!');"
+  },
+  {
+    "title": "What is the syntax for declaring a variable in JavaScript?",
+    "answer_1": "variable myVar;",
+    "answer_2": "var myVar;",
+    "answer_3": "let myVar;",
+    "answer_4": "myVar = variable;",
+    "right_answer": "var myVar;"
+  },
+  {
+    "title": "Which symbol is used for single-line comments in JavaScript?",
+    "answer_1": "//",
+    "answer_2": "/* */",
+    "answer_3": "#",
+    "answer_4": "--",
+    "right_answer": "//"
+  },
+  {
+    "title": "What is the purpose of the 'for' loop in JavaScript?",
+    "answer_1": "To declare functions",
+    "answer_2": "To create classes",
+    "answer_3": "To iterate over a sequence of values",
+    "answer_4": "To add styles to HTML elements",
+    "right_answer": "To iterate over a sequence of values"
+  },
+  {
+    "title": "What is an 'array' in JavaScript?",
+    "answer_1": "A type of insect",
+    "answer_2": "A collection of data items",
+    "answer_3": "A programming error",
+    "answer_4": "A type of keyboard",
+    "right_answer": "A collection of data items"
+  },
+  {
+    "title": "What is the purpose of the 'if' statement in JavaScript?",
+    "answer_1": "To define a variable",
+    "answer_2": "To create a web page",
+    "answer_3": "To make decisions and control the flow of a program",
+    "answer_4": "To print text on the screen",
+    "right_answer": "To make decisions and control the flow of a program"
+  },
+  {
+    "title": "What does 'addEventListener' do in JavaScript?",
+    "answer_1": "Adds numbers together",
+    "answer_2": "Adds event listeners to HTML elements",
+    "answer_3": "Subtracts numbers",
+    "answer_4": "Multiplies numbers",
+    "right_answer": "Adds event listeners to HTML elements"
+  }
+]

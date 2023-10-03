@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What is PHP?",
+    "answer_1": "A type of pasta",
+    "answer_2": "A programming language",
+    "answer_3": "A medical condition",
+    "answer_4": "A car manufacturer",
+    "right_answer": "A programming language"
+  },
+  {
+    "title": "Who is the creator of PHP?",
+    "answer_1": "Larry Page",
+    "answer_2": "Rasmus Lerdorf",
+    "answer_3": "Mark Zuckerberg",
+    "answer_4": "Elon Musk",
+    "right_answer": "Rasmus Lerdorf"
+  },
+  {
+    "title": "What is the primary use of PHP?",
+    "answer_1": "Making pizza",
+    "answer_2": "Building rockets",
+    "answer_3": "Creating dynamic web pages",
+    "answer_4": "Writing novels",
+    "right_answer": "Creating dynamic web pages"
+  },
+  {
+    "title": "How do you display 'Hello, World!' in PHP?",
+    "answer_1": "console.log('Hello, World!');",
+    "answer_2": "echo 'Hello, World!';",
+    "answer_3": "print('Hello, World!');",
+    "answer_4": "document.write('Hello, World!');",
+    "right_answer": "echo 'Hello, World!';"
+  },
+  {
+    "title": "What is the syntax for defining a variable in PHP?",
+    "answer_1": "variable $myVar;",
+    "answer_2": "$var myVar;",
+    "answer_3": "$myVar = variable;",
+    "answer_4": "$myVar;",
+    "right_answer": "$myVar = variable;"
+  },
+  {
+    "title": "Which symbol is used for single-line comments in PHP?",
+    "answer_1": "//",
+    "answer_2": "/* */",
+    "answer_3": "#",
+    "answer_4": "--",
+    "right_answer": "//"
+  },
+  {
+    "title": "What is the purpose of the 'for' loop in PHP?",
+    "answer_1": "To declare functions",
+    "answer_2": "To create classes",
+    "answer_3": "To iterate over a sequence of values",
+    "answer_4": "To add styles to HTML elements",
+    "right_answer": "To iterate over a sequence of values"
+  },
+  {
+    "title": "What is an 'array' in PHP?",
+    "answer_1": "A type of fish",
+    "answer_2": "A collection of data items",
+    "answer_3": "A type of bird",
+    "answer_4": "A type of tree",
+    "right_answer": "A collection of data items"
+  },
+  {
+    "title": "What is the purpose of the 'if' statement in PHP?",
+    "answer_1": "To define a variable",
+    "answer_2": "To create a web page",
+    "answer_3": "To make decisions and control the flow of a program",
+    "answer_4": "To print text on the screen",
+    "right_answer": "To make decisions and control the flow of a program"
+  },
+  {
+    "title": "What does 'include' do in PHP?",
+    "answer_1": "Includes comments in the code",
+    "answer_2": "Includes external files in the code",
+    "answer_3": "Deletes variables",
+    "answer_4": "Defines classes",
+    "right_answer": "Includes external files in the code"
+  }
+]

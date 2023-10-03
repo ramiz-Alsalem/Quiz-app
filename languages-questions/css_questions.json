@@ -1,0 +1,82 @@
+[
+  {
+    "title": "What does CSS stand for?",
+    "answer_1": "Cascading Style Sheets",
+    "answer_2": "Computer Style Sheets",
+    "answer_3": "Creative Style Sheets",
+    "answer_4": "Colorful Style Sheets",
+    "right_answer": "Cascading Style Sheets"
+  },
+  {
+    "title": "How can you include external CSS in an HTML document?",
+    "answer_1": "Using the <link> element in the <head> section.",
+    "answer_2": "Using the <style> element in the <body> section.",
+    "answer_3": "Using the <css> element in the <head> section.",
+    "answer_4": "By directly embedding CSS code within the HTML file.",
+    "right_answer": "Using the <link> element in the <head> section."
+  },
+  {
+    "title": "Which CSS property is used to change the text color of an element?",
+    "answer_1": "background-color",
+    "answer_2": "text-color",
+    "answer_3": "font-color",
+    "answer_4": "color",
+    "right_answer": "color"
+  },
+  {
+    "title": "What is the CSS box model?",
+    "answer_1": "A model for organizing CSS files.",
+    "answer_2": "A model that defines how elements are displayed and spaced within a layout.",
+    "answer_3": "A model for creating 3D effects with CSS.",
+    "answer_4": "A model for handling user interactions in CSS.",
+    "right_answer": "A model that defines how elements are displayed and spaced within a layout."
+  },
+  {
+    "title": "What is the purpose of the CSS property 'margin'?",
+    "answer_1": "To set the background color of an element.",
+    "answer_2": "To create space outside the element's border.",
+    "answer_3": "To change the font size of an element.",
+    "answer_4": "To add a border to an element.",
+    "right_answer": "To create space outside the element's border."
+  },
+  {
+    "title": "Which CSS property is used to control the spacing between lines of text?",
+    "answer_1": "line-height",
+    "answer_2": "text-spacing",
+    "answer_3": "line-spacing",
+    "answer_4": "text-line",
+    "right_answer": "line-height"
+  },
+  {
+    "title": "What is the CSS selector for selecting all <p> elements?",
+    "answer_1": ".paragraph",
+    "answer_2": "#paragraph",
+    "answer_3": "p",
+    "answer_4": "paragraph",
+    "right_answer": "p"
+  },
+  {
+    "title": "Which CSS property is used to make text bold?",
+    "answer_1": "text-style",
+    "answer_2": "font-weight",
+    "answer_3": "text-bold",
+    "answer_4": "bold-text",
+    "right_answer": "font-weight"
+  },
+  {
+    "title": "What is the purpose of the CSS property 'padding'?",
+    "answer_1": "To create space inside the element's border.",
+    "answer_2": "To change the text color of an element.",
+    "answer_3": "To add a border to an element.",
+    "answer_4": "To set the background color of an element.",
+    "right_answer": "To create space inside the element's border."
+  },
+  {
+    "title": "Which CSS property is used to control the order of elements in relation to other elements?",
+    "answer_1": "display",
+    "answer_2": "position",
+    "answer_3": "order",
+    "answer_4": "z-index",
+    "right_answer": "z-index"
+  }
+]
